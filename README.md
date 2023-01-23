@@ -2,5 +2,5 @@
 HW3: rest api for postrequest and with two junit test
 
 ## url pattern
-POST /person   return id in database
+POST /person   return id in database <br>
 GET  /person   return the list of user in database
